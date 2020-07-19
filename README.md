@@ -1,6 +1,6 @@
 # Alaska Empire Index
 
-**TLDR; The text is present in the .pdf so there is no need to perform OCR!!! I did it anyway.  Lessons learned:
+**TLDR; The text is present in the .pdf so there is no need to perform OCR!!! I did it anyway.  Lessons learned:**
 
 1.  gImageReader is a good tool if you're on Windows: https://sourceforge.net/projects/gimagereader/
 
@@ -8,7 +8,7 @@
 
 In a facebook group recently an archive of a local paper was published.  Using the front page of the first page I have put together an OCR tool to see how easy it would be to pull text from the .pdfs. I used an online tool to convert the first page from .pdf to .png.  I also fooled around with the image settings to see how much the results of text extraction would change. 
 
-**Nearly the entire implementation comes from small modifications suggested by this post:
+**Nearly the entire implementation comes from small modifications suggested by this post:**
 
 https://stackoverflow.com/questions/10947399/how-to-implement-and-do-ocr-in-a-c-sharp-project
 
