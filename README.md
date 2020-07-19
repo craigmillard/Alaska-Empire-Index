@@ -17,8 +17,8 @@ Feel free to try for yourself.  You'll need to put the english training data (al
 
 ![Training Data](https://github.com/craigmillard/Juneau-Empire-Index/blob/master/Ocr/Ocr/Required%20Tesseract%20Files.PNG)
 
-## Attribution for Tesseract and its License
-
+# Attribution for Tesseract
+```
 Name: Tesseract OCR engine
 Source: https://github.com/tesseract-ocr/tesseract
 License: Apache license 2.0 (below)
@@ -34,7 +34,7 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
-
+```
 # Results: 
 
 ## First Attempt
