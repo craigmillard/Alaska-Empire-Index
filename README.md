@@ -3,7 +3,6 @@
 **TLDR; The text is present in the .pdf so there is no need to perform OCR!!! I did it anyway.  Lessons learned:**
 
 1.  gImageReader is a good tool if you're on Windows: https://sourceforge.net/projects/gimagereader/
-
 2.  OCR accuracy is much higher if you select a similar block of text (same font/size/quality etc..)
 
 In a facebook group recently an archive of a local paper was published.  Using the front page of the first page I have put together an OCR tool to see how easy it would be to pull text from the .pdfs. I used an online tool to convert the first page from .pdf to .png.  I also fooled around with the image settings to see how much the results of text extraction would change. 
@@ -16,6 +15,7 @@ I believe in order to improve the extraction of text the following could be perf
 
 1. Image processing
 2. Improving training data (let it know what fonts are used, tell it what the results are, I don't know Tesseract...)
+3. Selecting blocks of similar text
 
 If fairly reliable text were able to be extracted it would be trivial to tokenize and index with something like Solr or Elastic and make a searchable archive. 
 
