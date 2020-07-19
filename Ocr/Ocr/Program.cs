@@ -7,6 +7,7 @@ using System.Drawing;
 using Tesseract;
 using System.Diagnostics;
 using ConsoleApplication;
+using System.IO;
 
 namespace Ocr
 {
@@ -14,7 +15,9 @@ namespace Ocr
     {
         static void Main(string[] args)
         {
-            var testImagePath = @"C:/Users/pcrai/Documents/GitHub/Juneau-Empire-Index/Ocr/Ocr/Newspaper/pngs/front page second update.jpg";
+            var enviroment = System.Environment.CurrentDirectory;
+            string projectDirectory = Directory.GetParent(enviroment).Parent.FullName;
+            var testImagePath = Path.Combine(projectDirectory, "Newspaper\\pngs\\front-page-updated.jpg");
             if (args.Length > 0)
             {
                 testImagePath = args[0];
