@@ -16,10 +16,10 @@ If fairly reliable text were able to be extracted it would be trivial to tokeniz
 # Results: 
 
 ## First Attempt
-![Front Page Original](https://github.com/craigmillard/Juneau-Empire-Index/blob/master/Ocr/Ocr/Newspaper/pngs/front%20page%20original.png)
+![Front Page Original](https://github.com/craigmillard/Juneau-Empire-Index/blob/master/Ocr/Ocr/Newspaper/pngs/front-page-original.png)
 ![Console Output](https://github.com/craigmillard/Juneau-Empire-Index/blob/master/Ocr/Ocr/Newspaper/pngs/First%20OCR.PNG)
 
 ## Second Attempt
-![Front Page Edited](https://github.com/craigmillard/Juneau-Empire-Index/blob/master/Ocr/Ocr/Newspaper/pngs/front%20page%20updated.jpg)
+![Front Page Edited](https://github.com/craigmillard/Juneau-Empire-Index/blob/master/Ocr/Ocr/Newspaper/pngs/front-page-updated.jpg)
 ![Console Output](https://github.com/craigmillard/Juneau-Empire-Index/blob/master/Ocr/Ocr/Newspaper/pngs/Second%20OCR.PNG)
 
