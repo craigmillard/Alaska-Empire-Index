@@ -362,4 +362,4 @@ MigrationBackup/
 FodyWeavers.xsd
 
 #english language tesseract data
-/Ocr/Ocr/Tesseract
+/Ocr/Ocr/tessdata
