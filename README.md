@@ -13,7 +13,8 @@ I believe in order to improve the extraction of text the following could be perf
 
 If fairly reliable text were able to be extracted it would be trivial to tokenize and index with something like Solr or Elastic and make a searchable archive. 
 
-Feel free to try for yourself.  You'll need the english training data.
+Feel free to try for yourself.  You'll need to put the english training data (all files in screenshot) in the tessdata directory in the project. 
+
 ![Training Data](https://github.com/craigmillard/Juneau-Empire-Index/blob/master/Ocr/Ocr/Required%20Tesseract%20Files.PNG)
 
 
