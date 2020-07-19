@@ -1,4 +1,4 @@
-# Juneau Empire Index
+# Alaska Empire Index
 
 In a facebook group recently an archive of a local paper was published.  Using the front page of the first page I have put together an OCR tool to see how easy it would be to pull text from the .pdfs. I used an online tool to convert the first page from .pdf to .png.  I also fooled around with the image settings to see how much the results of text extraction would change. 
 
@@ -26,6 +26,10 @@ Feel free to try for yourself.  You'll need to put the english training data (al
 ## Second Attempt
 ![Front Page Edited](https://github.com/craigmillard/Juneau-Empire-Index/blob/master/Ocr/Ocr/Newspaper/pngs/front-page-updated.jpg)
 ![Console Output](https://github.com/craigmillard/Juneau-Empire-Index/blob/master/Ocr/Ocr/Newspaper/pngs/Second%20OCR.PNG)
+
+## Next steps
+
+I'm going to try some of the GUI clients for Tesseract and see if I can't get better results than above. 
 
 # Attribution for Tesseract
 ```
