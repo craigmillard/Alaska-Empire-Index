@@ -13,7 +13,7 @@ I believe in order to improve the extraction of text the following could be perf
 
 If fairly reliable text were able to be extracted it would be trivial to tokenize and index with something like Solr or Elastic and make a searchable archive. 
 
-#Results: 
+# Results: 
 
 ## First Attempt
 ![Front Page Original](https://github.com/craigmillard/Juneau-Empire-Index/blob/master/Ocr/Ocr/Newspaper/pngs/front%20page%20original.png)
