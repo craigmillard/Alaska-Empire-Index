@@ -13,9 +13,19 @@ I believe in order to improve the extraction of text the following could be perf
 
 If fairly reliable text were able to be extracted it would be trivial to tokenize and index with something like Solr or Elastic and make a searchable archive. 
 
-Feel free to try for yourself.  You'll need to put the english training data (all files in screenshot) in the tessdata directory in the project. 
+Feel free to try for yourself.  You'll need to put the english training data (all files in screenshot) in the tessdata directory in the project. Tesseract is licensed under Apache license 2.0 (below)
 
 ![Training Data](https://github.com/craigmillard/Juneau-Empire-Index/blob/master/Ocr/Ocr/Required%20Tesseract%20Files.PNG)
+
+# Results: 
+
+## First Attempt
+![Front Page Original](https://github.com/craigmillard/Juneau-Empire-Index/blob/master/Ocr/Ocr/Newspaper/pngs/front-page-original.png)
+![Console Output](https://github.com/craigmillard/Juneau-Empire-Index/blob/master/Ocr/Ocr/Newspaper/pngs/First%20OCR.PNG)
+
+## Second Attempt
+![Front Page Edited](https://github.com/craigmillard/Juneau-Empire-Index/blob/master/Ocr/Ocr/Newspaper/pngs/front-page-updated.jpg)
+![Console Output](https://github.com/craigmillard/Juneau-Empire-Index/blob/master/Ocr/Ocr/Newspaper/pngs/Second%20OCR.PNG)
 
 # Attribution for Tesseract
 ```
@@ -35,13 +45,3 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
-# Results: 
-
-## First Attempt
-![Front Page Original](https://github.com/craigmillard/Juneau-Empire-Index/blob/master/Ocr/Ocr/Newspaper/pngs/front-page-original.png)
-![Console Output](https://github.com/craigmillard/Juneau-Empire-Index/blob/master/Ocr/Ocr/Newspaper/pngs/First%20OCR.PNG)
-
-## Second Attempt
-![Front Page Edited](https://github.com/craigmillard/Juneau-Empire-Index/blob/master/Ocr/Ocr/Newspaper/pngs/front-page-updated.jpg)
-![Console Output](https://github.com/craigmillard/Juneau-Empire-Index/blob/master/Ocr/Ocr/Newspaper/pngs/Second%20OCR.PNG)
-
