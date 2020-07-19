@@ -1,4 +1,4 @@
-# Juneau-Empire-Index
+# Juneau Empire Index
 
 In a facebook group recently an archive of a local paper was published.  Using the front page of the first page I have put together an OCR tool to see how easy it would be to pull string data from the .pdfs. I used an online tool to convert the first page from .pdf to .png.  I also fooled around with the image settings to see how much the results of text extraction would change. 
 
