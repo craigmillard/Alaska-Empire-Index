@@ -2,7 +2,7 @@
 
 TLDR; The text is present in the .pdf so there is no need to perform OCR!!! I did it anyway.  Lessons learned:
 
-1.  gImageReader is a good tool if you're on a Windows client:
+1.  gImageReader is a good tool if you're on Windows:
 
 https://sourceforge.net/projects/gimagereader/
 
